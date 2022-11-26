@@ -11,3 +11,7 @@ Drafts for long form content
 ### Company
 
 1. [How to evaluate open source projects as a VC?](blog/evaluating_oss.md)
+
+### Art and business
+
+1. [Signs that you are missing the point](blog/missing_the_point.md)
